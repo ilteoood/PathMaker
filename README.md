@@ -1,6 +1,8 @@
 PathMaker
 =========
+
 Copyright (c) 2013, Matteo Pietro Dazzi <---> ilteoood
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided
@@ -21,12 +23,5 @@ PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR B
 INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
 STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
 THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 -----------------------
-Example of config.cfg:
-how
-	are
-		you
-my
-friend
-	today
-	ok
